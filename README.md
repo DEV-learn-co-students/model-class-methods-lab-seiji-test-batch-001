@@ -1,0 +1,1 @@
+# model-class-methods-lab-seiji-test-batch-001
